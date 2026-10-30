@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/dmac/c++/N-Body-Practice/build",
-  "command": "/usr/bin/c++ -DMATPLOT_BUILD_HIGH_RESOLUTION_WORLD_MAP -DNOMINMAX -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/n-body.dir/main.cpp.o -c /Users/dmac/c++/N-Body-Practice/main.cpp",
-  "file": "/Users/dmac/c++/N-Body-Practice/main.cpp",
-  "output": "CMakeFiles/n-body.dir/main.cpp.o"
-}
-]
