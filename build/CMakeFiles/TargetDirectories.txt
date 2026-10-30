@@ -1,0 +1,3 @@
+/Users/dmac/c++/N-Body-Practice/build/CMakeFiles/n-body.dir
+/Users/dmac/c++/N-Body-Practice/build/CMakeFiles/edit_cache.dir
+/Users/dmac/c++/N-Body-Practice/build/CMakeFiles/rebuild_cache.dir
